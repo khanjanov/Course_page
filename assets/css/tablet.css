@@ -1,0 +1,148 @@
+@media screen and (max-width: 992px) {
+
+    body {
+        overflow-x: hidden !important;
+    }
+
+    .container {
+        width: 80%;
+        margin: 0 70px;
+        /* padding-bottom: 15px;
+        overflow-x: hidden;
+        overflow-y: hidden; */
+    }
+
+    .logo {
+        width: 65px;
+    }
+
+    .item {
+        margin-top: 56px;
+        margin-bottom: 15px;
+    }
+
+    .item img {
+        margin-right: 5px;
+    }
+
+    .item p {
+        margin-right: 14px;
+        font-size: 12px;
+    }
+
+    .firsttext h1 {
+        font-size: 46px;
+    }
+
+    .firsttext p {
+        font-size: 12px;
+    }
+
+    .mwmafe {
+        margin-left: 81px;
+    }
+
+    .mwmafe img {
+        width: 176px;
+    }
+
+    .container .bluefoned {
+        width: 280px;
+        padding: 10px 15px;
+        margin-top: 39px;
+        margin-bottom: 100px;
+        border-radius: 3px;
+    }
+
+    .authorsquote {
+        font-size: 14px;
+        margin-bottom: 6px;
+    }
+
+    .author {
+        font-size: 12px;
+    }
+
+    .container h2 {
+        font-size: 32px;
+        line-height: 101.38%;
+        padding-bottom: 20px;
+    }
+
+    .secondtext h2 {
+        margin-bottom: 10px;
+    }
+
+    .secondtext p {
+        font-size: 14px;
+    }
+
+    .mwsase {
+        margin-top: 70px;
+    }
+
+    .mwsase .manwithscreen {
+        width: 182px;
+        margin-left: -400px;
+
+    }
+
+    .secondellipse {
+        position: absolute;
+        width: 211px;
+        top: 148px;
+        right: 200px;
+        transform: translateY(50%);
+        z-index: -1;
+    }
+
+    .loatntexts {
+        margin-top: 54px;
+    }
+
+    .loate {
+        position: relative;
+    }
+
+    .thirdellipse {
+        position: absolute;
+        width: 189px;
+        left: 10px;
+        top: 85px;
+        transform: translateY(50%);
+        z-index: -1;
+        margin-bottom: 162px;
+    }
+
+    .loate img {
+        width: 134px;
+    }
+
+    .texts h4 {
+        font-size: 15px;
+    }
+
+    .formatzanyatiy h2 {
+        margin-bottom: 51px;
+    }
+
+    .formatzanyatiy .texts {
+        margin-right: 46px;
+    }
+
+    .texts p{
+        font-size: 14px;
+    }
+    .shtouznayem {
+        margin-top: 103px;
+        margin-bottom: 143px;
+    }
+
+    .shtouznayem h2 {
+        margin-bottom: 12px;
+    }
+
+    ul li {
+        font-size: 14px;
+    }
+}

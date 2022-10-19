@@ -1,0 +1,149 @@
+@media screen and (min-width: 320px) {
+
+    body {
+        overflow-x: hidden !important;
+    }
+
+    .container {
+        width: 80%;
+        margin: 0 10px;
+        padding-bottom: 15px;
+        overflow-x: hidden;
+        overflow-y: hidden;
+    }
+
+    .f_w_m {
+        flex-wrap: wrap;
+    }
+
+    .logo {
+        width: 52px;
+    }
+
+    .item {
+        margin-top: 45px;
+        margin-bottom: 13px;
+    }
+
+    .item img {
+        width: 314px;
+    }
+
+    .item p {
+        font-size: 9px;
+    }
+
+    .firsttext {
+        display: block;
+        margin-bottom: 10px;
+    }
+
+    .firsttext h1 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+
+    .firsttext p {
+        font-size: 14px;
+    }
+
+    .mwmafe img {
+        width: 141px;
+    }
+
+    .formbl {
+        width: 100%;
+        text-align: right;
+    }
+
+    .container .bluefoned {
+        width: 225px;
+        padding: 8px 12px;
+        margin-top: 38px;
+        margin-bottom: 75px;
+        border-radius: 2px;
+    }
+
+    .authorsquote {
+        font-size: 11px;
+        margin-bottom: 6px;
+    }
+
+    .author {
+        font-size: 10px;
+    }
+
+    .container h2 {
+        font-size: 26px;
+    }
+
+    .secondtext h2 {
+        margin-bottom: 8px;
+    }
+
+    .secondtext p {
+        font-size: 14px;
+    }
+
+    .dbfm {
+        display: block;
+    }
+
+    .mwsase {
+        margin-left: 110px;
+        margin-top: 20px;
+    }
+
+    .mwsase .manwithscreen {
+        width: 182px;
+    }
+
+    .secondellipse {
+        position: absolute;
+        width: 211px;
+        top: 150px;
+        right: 0.01px;
+        transform: translateY(50%);
+        z-index: -1;
+    }
+
+    .loatntexts {
+        margin-top: 0;
+    }
+
+    .loate {
+        display: none;
+    }
+
+    .texts h4 {
+        font-size: 14px;
+        padding-bottom: 5px;
+    }
+
+    .formatzanyatiy .texts p {
+        font-size: 12x;
+        margin-bottom: 10px;
+        padding-bottom: 20px;
+    }
+
+    .formatzanyatiy h2 {
+        margin-bottom: 16px;
+        margin-top: 70px;
+    }
+
+    .shtouznayem {
+        margin-top: 50px;
+    }
+
+    .shtouznayem h2 {
+        margin-bottom: 12px;
+    }
+
+    ul {
+        margin-left: 20px;
+    }
+
+    ul li {
+        font-size: 16px;
+    }
+}

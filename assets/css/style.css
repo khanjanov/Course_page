@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 122px;
+}
+
+h1, h2 {
+    font-family: 'Roboto Slab', serif;
+}
+
+.j_c_between {
+    display: flex;
+    justify-content: space-between;
+}
+
+.d_flex {
+    display: flex;
+}
+
+.logo {
+    margin-top: 21px;
+}
+
+.item {
+    margin-top: 97px;
+    margin-bottom: 43px;
+}
+
+.item img {
+    margin-right: 8px;
+}
+
+.item p {
+    margin-right: 25px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+    margin: 0 25px 4px 10px;
+}
+
+.firsttext h1 {
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 101.38%;
+    text-align: left;
+}
+
+.firsttext p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+}
+
+.mwmafe {
+    position: relative;
+    margin-left: 340px;
+}
+
+.mwmafe img {
+    width: 380px;
+}
+
+.firstellipse {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    transform: translateY(50%);
+    z-index: -1;
+}
+
+.bluefoned {
+    width: 483px;
+    padding: 20px 25px;
+    background-color: #1E4681;
+    color: white;
+    margin: auto;
+    margin-top: 67px;
+    margin-bottom: 175px;
+    border-radius: 5px;
+}
+
+.authorsquote {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 130%;
+}
+
+.author {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 130%;
+    text-align: end;
+}
+
+.container h2 {
+    font-size: 55px;
+    line-height: 101.38%;
+    padding-bottom: 20px;
+}
+
+.secondtext h2 {
+    margin-bottom: 18px;
+}
+
+.secondtext p {
+    font-size: 20px;
+    line-height: 150%;
+    text-align: left;
+    width: 664px;
+}
+
+.mwsase {
+    position: relative;
+    margin-left: 190px;
+    margin-top: 70px;
+}
+
+.mwsase .manwithscreen {
+    width: 314px;
+}
+
+.secondellipse {
+    position: absolute;
+    top: 255px;
+    right: 0;
+    transform: translateY(50%);
+    z-index: -1;
+}
+
+.loatntexts {
+    margin-top: 94px;
+}
+
+.loate {
+    position: relative;
+    margin-bottom: 162px;
+}
+
+.loate img {
+    width: 232px;
+}
+
+.thirdellipse {
+    position: absolute;
+    width: 189px;
+    height: 32px;
+    left: 10px;
+    top: 170px;
+    transform: translateY(50%);
+    z-index: -1;
+    margin-bottom: 162px;
+}
+
+.loatntexts .texts {
+    margin-top: 80px;
+}
+
+.texts h4 {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 130%;
+}
+
+.formatzanyatiy h2 {
+    margin-bottom: 89px;
+}
+
+.formatzanyatiy .texts h4 {
+    color: #1E4681;
+}
+
+.formatzanyatiy p {
+    font-size: 24px;
+}
+
+.formatzanyatiy .texts {
+    margin-right: 122px;
+}
+
+.shtouznayem {
+    margin-top: 179px;
+    margin-bottom: 248px;
+}
+
+.shtouznayem h2 {
+    margin-bottom: 21px;
+}
+
+ul {
+    margin-left: 23.5px;
+}
+
+ul li {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
+}
